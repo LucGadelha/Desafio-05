@@ -1,11 +1,5 @@
-# API para integração com FrontEnd de Biblioteca
+# API for integration with a Library's Front End
 
-Integrar API com frontend
+using Express and Node.JS
 
-```bash
-npm install
-#late
-npm run dev
-```
-
-Site hospedado: [biblioteca](https://biblioteca-dnc-l.netlify.app)
+Integrate API with frontend
