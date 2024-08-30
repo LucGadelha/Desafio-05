@@ -1,6 +1,11 @@
-Desafio 05 - Escola DNC 
+# API para integração com FrontEnd de Biblioteca
+
 Integrar API com frontend
-feito por Lucas Gadelha
 
-Site hospedado: https://biblioteca-dnc-l.netlify.app
+```bash
+npm install
+#late
+npm run dev
+```
 
+Site hospedado: [biblioteca](https://biblioteca-dnc-l.netlify.app)
